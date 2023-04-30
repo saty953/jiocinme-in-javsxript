@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../joiCinema"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jio cinema-2"
+	}
+}
